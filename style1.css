@@ -1,0 +1,45 @@
+div{
+    border: 20px double burlywood;
+    padding: 30px;
+    margin: 100px;
+    outline: 20px dashed blueviolet ;
+   }
+.nav{
+border: 10px dotted blueviolet;
+margin-right:50px;
+}
+#opp{
+    border: 5px dashed goldenrod;
+    margin-left:100px;
+    }
+[eng]{
+    border: 30px inset hotpink;
+    margin:10px 20px 100px 40px;
+    border-top-right-radius: 20px;
+}
+h1 p em{
+        border: 20px outset blueviolet;
+        margin:100px 20px 30px 40px;
+        border-radius: 20px;
+        padding: 30px;
+}
+.p1,.p2{
+    border: 30px groove blanchedalmond;
+    margin:100px;
+    text-align: justify;
+    color:brown;
+
+}
+table{
+    box-align:center;
+}
+tbody{
+    text-align: center;
+    color: violet;
+    padding:10px;
+  
+}
+tr{
+    padding: 10px;
+}
+

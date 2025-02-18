@@ -1,0 +1,20 @@
+.grid{
+    display: grid;
+    border: 2px solid aqua;
+    background-color: bisque;
+    grid-template-columns: auto auto 600px;
+    grid-template-rows: 50px 100px ;
+    row-gap: 40px;
+    column-gap: 70px;
+}
+.grid div{
+    display: grid;
+    border: 3px solid brown;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.item{
+    grid-column: 2/4;
+    grid-row: 3/5;
+}

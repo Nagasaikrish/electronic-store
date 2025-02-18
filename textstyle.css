@@ -1,0 +1,53 @@
+h1{
+    border:3px solid greenyellow;
+    color: blueviolet;
+    /* display: inline; */
+    text-align: center;
+    background-color: aqua;
+
+}
+
+h2 {
+    border: 3px solid rgb(140, 34, 161);
+    text-align: center;
+}
+
+h3 {
+    border: 3px solid rgb(77, 18, 178);
+    text-decoration: dotted;
+}
+
+h4 {
+    border: 3px solid rgb(165, 29, 34);
+    text-transform: uppercase;
+}
+
+h5 {
+    border: 3px solid rgb(112, 124, 135);
+    text-indent: 20%;
+}
+
+h6 {
+    border: 3px solid rgb(22, 216, 220);
+    letter-spacing: 10px;
+}
+
+.a {
+    border: 3px solid rgb(243, 72, 24);
+    line-height: 100px;
+}
+
+.b {
+    border: 3px solid rgb(15, 23, 22);
+    direction: rtl;
+}
+
+.c {
+    border: 3px solid rgb(234, 95, 25);
+    word-spacing: 30px;
+}
+
+.d{
+    border:3px solid rgb(161, 25, 171);
+    text-shadow: 2px 2px 20px rgb(255, 0, 0);
+}

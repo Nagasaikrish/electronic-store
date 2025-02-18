@@ -1,0 +1,19 @@
+[demo]{
+    background-color: blue;
+}
+[demo="class"]{
+    background-color: yellow;
+}
+[href]{
+    color: blue;
+}
+[type]{
+    background-color:black;color:blue ;
+}
+.first{
+    background-color: rgb(130, 235, 235);
+    color: blue;
+}
+#first{
+    color: blueviolet;
+}

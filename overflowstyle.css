@@ -1,0 +1,46 @@
+.b1{
+    border: 20px solid rgb(134, 134, 185);
+    height: 200px;
+    width: 500px;
+    background-color: rgb(183, 95, 36);
+    margin: 100px;
+    overflow: visible;
+    display: inline-block;
+
+}
+
+.b2{
+    border: 20px solid rgb(134, 134, 185);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(181, 29, 57);
+    margin: 100px;
+    overflow: auto;
+    display: inline-block;  
+}
+
+.b3{
+    border: 20px solid rgb(134, 134, 185);
+    background-color: rgb(188, 170, 50);
+    margin: 100px;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    display: inline-block;  
+}
+
+.b4{
+    border: 20px solid rgb(134, 134, 185);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(13, 10, 164);
+    margin: 100px;
+    overflow: scroll;
+    display: inline-block;  
+}
+h1{
+    border:3px solid greenyellow;
+    color: blueviolet;
+    text-align: center;
+    background-color: aqua;
+}

@@ -1,0 +1,47 @@
+.a1 {
+    border: 20px solid blue;
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: 100px;
+}
+
+.a1:hover {
+    transform: translate(30px, 40px);
+}
+
+.a2{
+    border: 20px solid rgb(114, 196, 19);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(130, 8, 79);
+    margin: 100px
+}
+
+.a2:hover {
+    transform: skew(30deg, 40deg);
+}
+
+.a3 {
+    border: 20px solid rgb(59, 184, 48);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(43, 9, 67);
+    margin: 100px
+}
+
+.a3:hover {
+    transform: scale(0.5, 0.5);
+}
+
+.a4 {
+    border: 20px solid rgb(134, 134, 185);
+    height: 200px;
+    width: 200px;
+    background-color: rgb(117, 138, 75);
+    margin: 100px;
+}
+
+.a4:hover {
+    transform: rotate(250deg);
+}

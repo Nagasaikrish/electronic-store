@@ -1,0 +1,26 @@
+.flex1{
+    display: flex;
+    border: 2px solid aqua;
+    background-color: bisque;
+    padding: 20px;
+    flex-direction: row;
+}
+
+.flex1 div{
+    border: 3px solid brown;
+    background-color: rgb(147, 15, 24);
+    text-align: center;
+    margin: 30px;
+    /* width: 500px; */
+    height: 40px;
+    align-self: start;
+}
+
+.item1{
+    flex-grow:10;
+    background-color: turquoise;
+    vertical-align: bottom;
+}
+.item2{
+     flex-shrink: 1;
+}

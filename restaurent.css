@@ -1,0 +1,46 @@
+.demo{
+    color:aqua;
+    background-color: blue;
+     }
+
+ #file{
+    color: blueviolet;
+    background-color: bisque;
+ }    
+
+ [text]
+ {
+    color: brown;
+    background-color: black;
+}
+[href]{
+    color:blue;
+    background-color:violet;
+
+}
+[class="warning"]{
+    color: tomato;
+    background-color: springgreen;
+
+}
+
+/* a{
+    color:blue;
+    background-color: black;
+}
+a:hover{
+    color:burlywood;
+    background-color: violet;
+}
+a:active{
+    color:black;
+}
+a:visited{
+    color:springgreen;
+}
+div,h1,a,class{
+    color: yellowgreen;
+}
+tr{
+    padding: 10px;
+} */

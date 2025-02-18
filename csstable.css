@@ -1,0 +1,74 @@
+table,td,th{
+    border: 3px solid rgb(45, 122, 158);
+    background-color: rgb(240, 187, 121);
+    color: blue;
+    /* border-collapse: collapse; */
+    padding: 20px;
+    border-spacing: 10px;
+    table-layout: auto;
+    overflow: x;
+}
+
+.a{
+    background-color: aqua;
+    color: blueviolet;
+    
+
+}
+caption{
+caption-side: top;
+text-align: end;
+}
+
+th{
+    height: 130px;
+    vertical-align: top;
+    white-space: inherit;
+}
+tbody{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td:nth-child(even){
+  background-color: blueviolet;
+}
+
+
+
+
+/* .b{
+    position: sticky;
+    top: 0%;
+    border: 10px solid greenyellow;
+    color:blue;
+}
+
+.c{
+    position: fixed;
+    border: 10px solid greenyellow;
+    color:blue;
+}
+
+.d{,m
+    position: absolute;
+    border: 10px solid greenyellow;
+    color:blue;
+}
+
+.e{
+    position: relative;
+    border: 10px solid greenyellow;
+    color:blue;
+}
+
+.f{
+    position: sticky;
+    top: 0%;
+    border: 10px solid greenyellow;
+    color:blue;
+}
+.h1{
+
+} */
